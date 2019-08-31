@@ -76,9 +76,7 @@
     "sitemapSwitcher": "on",
     "uniqCompNum": 50,
     "versionPublish": "4.10.8",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///Users/patrick.gittis/Documents/GitHub/pledge1sandiego.github.io"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
